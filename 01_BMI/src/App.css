@@ -4,3 +4,9 @@
   align-items: center;
   height: 100vh;
 }
+input{
+  width:100%;
+}
+button{
+  margin-top: 10px;
+}
