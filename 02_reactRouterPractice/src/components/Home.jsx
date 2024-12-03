@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import { Link } from "react-router";
 
 function Home() {
   return (
-    <div>Home</div>
-  )
+    <>
+      <div>Hey we are back home</div>
+      <div></div>
+    </>
+  );
 }
 
-export default Home
+export default Home;
